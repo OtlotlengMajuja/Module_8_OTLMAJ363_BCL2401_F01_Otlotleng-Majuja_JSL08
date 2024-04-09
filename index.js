@@ -21,7 +21,9 @@ class BankBranch { // 3. In the `BankBranch` class:
 }
 
 // Usage section
+const branchA = new BankBranch("Klopper Street Branch");
 
+const branchB = new BankBranch("Von Wielligh Street Branch");
 
 
 
